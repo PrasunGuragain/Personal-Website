@@ -1,0 +1,67 @@
+.experience{
+    font-size: 100px;
+    color: lightblue;
+    font-weight: 750;
+    margin-bottom: 15px;
+}
+.position{
+    font-size: 50px;
+    font-weight: 500;
+    color: lightblue;
+}
+.date{
+    font-size: 50px;
+    font-weight: 500;
+    color: lightgray;
+    padding-left: 50px;
+}
+.company{
+    font-size: 25px;
+    font-weight: 250;
+    color: lightblue;
+    padding-left: 50px;
+}
+.description{
+    font-size: 25px;
+    font-weight: 250;
+    color: lightblue;
+    padding-left: 10px;
+}
+.IT_description{
+    font-size: 25px;
+    font-weight: 250;
+    color: lightblue;
+    padding-left: 45px;
+}
+.experience_all{
+    background:rgb(20,20,20);
+}
+button.experience.btn.pointer{
+    text-transform: capitalize;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    transition: .5s ease;
+}
+.experience__button{
+    padding: 25px 0px; 
+}
+.title{
+    text-align: center;
+}
+.br_btn{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    background-color: darkblue;
+    border-radius: 60%;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.top{
+    display: flex;
+}

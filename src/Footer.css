@@ -1,0 +1,13 @@
+.footer{
+    padding: 10px 20px;
+    z-index: "100";
+    background-color: rgb(70, 70, 70);
+    flex-wrap: wrap;
+    display: flex;
+    cursor: pointer;
+}
+.copyright{
+    position: right;
+    color: lightblue;
+    padding-top: 50px;
+}
